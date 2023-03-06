@@ -1,0 +1,15 @@
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\bin\Debug\net6.0\AesForKFProject.exe
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\bin\Debug\net6.0\AesForKFProject.deps.json
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\bin\Debug\net6.0\AesForKFProject.runtimeconfig.json
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\bin\Debug\net6.0\AesForKFProject.dll
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\bin\Debug\net6.0\AesForKFProject.pdb
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\AesForKFProject.csproj.AssemblyReference.cache
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\AesForKFProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\AesForKFProject.AssemblyInfoInputs.cache
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\AesForKFProject.AssemblyInfo.cs
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\AesForKFProject.csproj.CoreCompileInputs.cache
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\AesForKFProject.dll
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\refint\AesForKFProject.dll
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\AesForKFProject.pdb
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\AesForKFProject.genruntimeconfig.cache
+C:\Users\adm\source\repos\AesForKFProject\AesForKFProject\obj\Debug\net6.0\ref\AesForKFProject.dll
